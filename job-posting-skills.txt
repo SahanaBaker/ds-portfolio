@@ -1,0 +1,63 @@
+Job A
+Job title: Casual Computational Research Assistant
+Field: Genomics research
+Seniority Level: entry / designed for college students still studying
+Required:
+Enrolled in an undergraduate or graduate college degree program in a relevant field (CS, Data Science, Biology, etc.)
+Can work an average of 10 hours a week
+Required but how it’s measured is unknown, so what qualifies may vary:
+“Familiarity with genetics, genomics, or genomic data.”
+Familiarity with GitHub or something similar / Can use GitHub
+“Familiarity with AI-assisted coding or software-development tools.”
+“Ability to independently implement work from detailed written specifications.”
+Can test software they develop
+Can identify problems
+Can document results
+Can clearly document software so that others can continue working on it
+Can communicate clearly in a remote environment
+Can implement software
+Not stated as “required” but it is part of the job:
+Develop and refine parts of a genomics data visualization platform
+Create queryable databases containing data from different sources
+Can “implement analysis and visualization workflows”
+Can “prepare concise summaries of completed work, unresolved issues, and recommended next steps.”
+Meet with, communicate with, and collaborate with colleagues (10% of the responsibilities)
+Preferred:
+Familiar with biochemical research
+“Interest in clinical genomics, molecular pathology, or computational pathology.”
+“Experience working with genomic sequence, cytogenetic, or other molecular laboratory data.”
+“Experience using large language models or other AI-assisted tools for software development, analysis, or documentation.”
+“Familiarity with databases, data visualization, or graphical software interfaces.”
+“Experience contributing to collaborative projects using GitHub.”
+
+
+Job B
+Job title: Data Scientist - AI Trainer
+Field: Training AI
+Seniority Level: 3+ years experience
+Skills/Qualifications:
+Required:
+“3+ years of hands-on experience in a quantitative role or research environment”
+Coding experience
+“Practical experience with statistical methods, predictive modeling, and experiment design”
+“Strong writing skills” in English
+A bachelor’s degree in a relevant field
+Responsibilities:
+“Evaluate AI-generated quantitative work”
+Can write clear explanations
+Can write clear documentation for code
+Give feedback to help improve the AI
+Preferred:
+Additional relevant credentials
+A master’s degree or more
+
+
+Skills common to both postings:
+Can write clearly
+Writing code
+Writing clear documentation for code
+Degree is in relevant field
+
+
+Things that stood out to me:
+Now that I think about it, it makes sense that intersection has a lot more emphasis on writing clearly and documentation. Communication is very important in Data Science because the results of analysis and the specifications for tools both require communicating with whoever is using them. Now that I think about it, it makes sense that soft skills like communication would be more relevant to a wider variety of jobs since they’re more applicable to more situations than, for example, a specific programming language.
